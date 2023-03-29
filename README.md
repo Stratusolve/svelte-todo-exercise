@@ -12,8 +12,9 @@ https://github.com/divbloxjs/dx-svelte-starter
 
 Some additional resources I suggest you refer to often:
 
-- https://daisyui.com/
-- https://tailwindcss.com/
+- https://tailwindcss.com/ (CSS utility framework)
+- https://daisyui.com/ (UI component framework built on top of tailwindCSS)
+- https://github.com/ItalyPaleAle/svelte-spa-router (Client-side routing)
 
 ### Tasks
 
@@ -40,7 +41,7 @@ First double check that you have [npm and node installed](https://docs.npmjs.com
 npm -v && node -v
 ```
 
-Then ensure your command line is in the current directory and install the dependancies using:
+Then ensure your command line is in the current directory and install the dependencies using:
 
 ```
 npm install
@@ -52,7 +53,7 @@ We can now serve the app by running
 npm run serve
 ```
 
-The service should nou be up and running and give you an output similar to
+The service should now be up and running and give you an output similar to
 
 ```
 ➜  todo git:(main) ✗ npm run serve
