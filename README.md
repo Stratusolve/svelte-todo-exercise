@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Your task is to build a simple TODO app using Svelte and a mock backend.
+Your task is to build a simple TODO app using Svelte and a mock backend. You will have two repos for this project, this repo will be for your backend application and a separate one you will create yourself for the frontend application. 
 
 ## Frontend
 
-We will use the Divblox Svelte Starter as the base for our app. You can find the public repo and instructions to get it up and running here:
+We will use the Divblox Svelte Starter as the base for our application. You can find the public repo and instructions to get it up and running here:
 
 https://github.com/divbloxjs/dx-svelte-starter
 
