@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "serve": "json-server --watch db.json --port 3000",
-    "serve-client-interactions": "json-server --watch dbClientInteraction.json --port 3333",
-    "serve-tasks" : "json-server --watch dbTasks.json --port 3333"
+    "serve-client-interactions": "json-server --watch dbClientInteractions.json --port 3333",
+    "serve-tasks": "json-server --watch dbTasks.json --port 3333"
   },
   "repository": {
     "type": "git",
