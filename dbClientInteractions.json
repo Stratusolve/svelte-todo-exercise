@@ -71,6 +71,15 @@
       "nextInteractionDateTime": "2023-05-26 09:00:00",
       "accountId": 1,
       "applicationId": 1
+    },
+    {
+      "id": 7,
+      "clientInteractionType": 4,
+      "description": "Diverse content-based customer loyalty",
+      "interactionDateTime": "Wed May 17 2023 02:16:38 GMT+0200 (South Africa Standard Time)",
+      "nextInteractionDateTime": "Mon Oct 02 2023 10:21:27 GMT+0200 (South Africa Standard Time)",
+      "accountId": 1,
+      "applicationId": 1
     }
   ]
 }
