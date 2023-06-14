@@ -91,5 +91,5 @@ The outcome is that you must be able to:
 - Delete an existing todo
 - Ensure all changes are persisted
 
-You will persist your data using the [JS Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to connect to the backend we will create in the next step.
+You will persist your data using the [JS Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) to connect to the backend we created previously.
 
